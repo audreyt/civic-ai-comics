@@ -2,6 +2,8 @@ Comics by [Nicky Case](https://ncase.me/), for Audrey Tang & Caroline Green's [C
 
 Given freely to the public domain under [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/deed.en) !
 
+See `/design-resources` for the layout, fonts, and exact colour hex codes.
+
 **How to translate!**
 
 1. Copy the folder `/comics-wordless` and rename your copy with [your language's ISO code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes), eg `/comics-zh-tw`.
