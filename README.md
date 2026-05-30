@@ -1,4 +1,8 @@
-To translate!
+Comics by [Nicky Case](https://ncase.me/) for Audrey Tang & Caroline Green's [Civic.AI](https://civic.ai/)
+
+Given freely to the public domain under [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+
+**How to translate!**
 
 1. Copy the folder "comics-wordless" and rename to your new language, eg "comics-zh-tw"
 
@@ -8,7 +12,8 @@ To translate!
 
 3. Run the script "./convert_comics_to_web.sh comics-[your lang]"
    You may need to install ImageMagick for this to work.
-   (for macOS: "brew install imagemagick") If you're stuck, ask Claude lol.
+   (for macOS: "brew install imagemagick")
+   If you're stuck, ask Claude lol.
 
 You now have the translated versions of the overview & all chapter comics,
 in both print & web format!
